@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...Native Android Development
 - 👯 I’m looking to collaborate on ...Native Android Projects
 - 💬 Ask me about ...Anything
-- 📫 How to reach me: ...[Twitter](https://twitter.com/LalremLian)
+- 📫 How to reach me: <a href="https://twitter.com/LalremLian" ><img src="https://img.shields.io/twitter/follow/LalremLian.svg?style=social" /> </a>
 - 😄 Pronouns: ...He/His
 
 <img src="https://github-readme-stats.vercel.app/api?username=LalremLian&&show_icons=true&title_color=ffffff&icon_color=F78B31&text_color=daf7dc&bg_color=151515">
