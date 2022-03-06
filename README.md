@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...Native Android Development
 - 👯 I’m looking to collaborate on ...Native Android Projects
 - 💬 Ask me about ...Anything
-- 📫 How to reach me: ...[Twitter](www.ggogle.com)
+- 📫 How to reach me: ...[Twitter](https://stackoverflow.com/search?page=2&tab=Newest&q=android%20studio)
 - 😄 Pronouns: ...He/His
 - ⚡ Fun fact: ...
 -->
