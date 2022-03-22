@@ -2,7 +2,7 @@
 ------------------
 Here are some ideas that i've been working on:
 
-- 🔭 I’m currently working on ... A native Android Application called CoviTrack
+- 🔭 I’m currently working on ... A native Android Application called CoviTrack along with Flutter
 - 🌱 I’m currently learning ...Native Android Development
 - 👯 I’m looking to collaborate on ...Native Android Projects
 - 💬 Ask me about ...Anything
