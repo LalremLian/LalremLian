@@ -2,9 +2,9 @@
 ------------------
 Here are some ideas that i've been working on:
 
-- 🔭 I’m currently working on ... A native Android Application called CoviTrack along with Flutter
-- 🌱 I’m currently learning ...Native Android Development
-- 👯 I’m looking to collaborate on ...Native Android Projects
+- 🔭 I’m currently working on ... A native Android Application which is an E-Commerce(Shopping_App) and along with Flutter
+- 🌱 I’m currently learning ...Flutter Framework
+- 👯 I’m looking to collaborate on ...Native Android Projects and Cross-Platform using Flutter
 - 💬 Ask me about ...Anything
 - 😄 Pronouns: ...He/His
 
