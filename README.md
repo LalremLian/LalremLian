@@ -2,8 +2,8 @@
 ------------------
 Here are some ideas that i've been working on:
 
-- 🔭 I’m currently working on ... A native Android Application which is an E-Commerce(Shopping_App) and along with Flutter
-- 🌱 I’m currently learning ...Flutter Framework
+- 🔭 I’m currently working on ... A native Android Application which is a Music App(Lyric App).
+- 🌱 I’m currently learning ...Kotlin and React Native
 - 👯 I’m looking to collaborate on ...Native Android Projects and Cross-Platform using Flutter
 - 💬 Ask me about ...Anything
 - 😄 Pronouns: ...He/His
